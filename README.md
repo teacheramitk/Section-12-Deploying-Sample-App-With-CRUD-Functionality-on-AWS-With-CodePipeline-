@@ -118,7 +118,7 @@ Click on Update and exit
 **Step 25.Now Goto AWS Console>DynamoDB>Tables**
 - Refresh and see that Table is deleted
 
-# End of Lab
+### End of Lab
 
 # Deploy CRUD App with CodePipeline (ASG + ALB) - Lab
 
@@ -248,7 +248,7 @@ Check for the data deleted
 - Amazon S3>codepipelie-ap-south-1-852554154xx>cp-crud-asg-alb>SourceArti/
 - Amazon S3>codepipelie-ap-south-1-852554154xx>cp-crud-asg-alb>Buildartif/
 
-# End of Lab
+### End of Lab
 
 
 # Deploy CRUD App with CodePipeline (Elastic Beanstalk) - Lab
@@ -381,7 +381,7 @@ $ git push
 - Refresh the crudappebs-env link
 - See that color is changed
 
-# End of Lab
+### End of Lab
 
 
 
@@ -481,7 +481,7 @@ Check for the data deleted
 **Step 21.Now Goto AWS Console>DynamoDB>Tables**
 - Refresh and see that Table is deleted
 
-# End of Lab
+### End of Lab
 
 
 
@@ -604,7 +604,7 @@ Check for the data deleted
 - Refresh and see that Table is deleted
 
 
-# End of Lab
+### End of Lab
 
 # Section Clean-up - Lab
 
@@ -622,7 +622,7 @@ Check for the data deleted
 
 **Step 5.Goto Ec2 Dashboard and Terminate crud-server single Instance**
 
-# End of Lab
+### End of Lab
 
 
 
